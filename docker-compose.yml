@@ -1,6 +1,6 @@
 # version: '3.8'
 services:
-  app:
+  amanat-finance-app:
     build:
       context: .
       dockerfile: Dockerfile
